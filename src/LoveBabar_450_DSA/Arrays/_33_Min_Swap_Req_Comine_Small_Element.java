@@ -12,7 +12,7 @@ public class _33_Min_Swap_Req_Comine_Small_Element {
 
         System.out.println(minSwap(arr1, n, k));
     }
-    
+
     // Function for finding the minimum number of swaps
     // required to bring all the numbers less
     // than or equal to k together.
