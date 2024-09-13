@@ -29,6 +29,26 @@ public class _2_Reverse {
             right--;
         }
     }
+    /*
+    Time Complexity: O(n)
+    Auxiliary Space: O(1)
+     */
+
+
+    /*
+    public static String reverseStringLoop(String inputStr) {
+        StringBuilder reversedStr = new StringBuilder();
+        for (int i = inputStr.length() - 1; i >= 0; i--) {
+            reversedStr.append(inputStr.charAt(i));
+        }
+        return reversedStr.toString();
+    }
+
+
+    Time Complexity: O(n)
+    Auxiliary Space: O(n) for storing the reversed string
+     */
+
 
 
 }
