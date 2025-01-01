@@ -27,7 +27,7 @@ public class _1_Reverse_Array {
 
         int[] array = {10, 20, 30, 40, 50};
         System.out.println("---------Optimal Way------------");
-        reverseArray2(array, 0, 4);
+        reverseArray2(array, 0, array.length-1);
         showArray(array);
     }
 
