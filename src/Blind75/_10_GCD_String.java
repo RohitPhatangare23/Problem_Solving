@@ -1,6 +1,6 @@
 package Blind75;
 
-public class _2_GCD_String {
+public class _10_GCD_String {
     public static void main(String[] args) {
          String str1="ABCABC";
          String str2="ABC";
